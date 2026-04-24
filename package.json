@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "API to extract full transcripts and text from YouTube videos for AI summaries.",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "start": "node index.js"
   },
